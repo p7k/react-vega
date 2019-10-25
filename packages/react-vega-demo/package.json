@@ -1,12 +1,12 @@
 {
-  "name": "react-vega-demo",
+  "name": "@eidetiq/react-vega-demo",
   "version": "7.1.0",
   "description": "Convert Vega spec into React class conveniently",
   "author": "Krist Wongsuphasawat <krist.wongz@gmail.com> (http://kristw.yellowpigz.com)",
   "keywords": [],
-  "repository": "git@github.com:vega/react-vega.git",
+  "repository": "git@github.com:p7k/react-vega.git",
   "bugs": {
-    "url": "https://github.com/vega/react-vega/issues"
+    "url": "https://github.com/p7k/react-vega/issues"
   },
   "private": true,
   "sideEffects": false,
