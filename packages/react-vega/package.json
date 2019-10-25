@@ -18,8 +18,8 @@
     "types"
   ],
   "dependencies": {
-    "@types/react": "^16.9.6",
-    "@eidetiq/vega-embed": "^6.0.0"
+    "@eidetiq/vega-embed": "^6.0.0",
+    "@types/react": "^16.9.6"
   },
   "peerDependencies": {
     "react": "^16.10.2",
